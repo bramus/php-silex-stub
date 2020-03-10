@@ -1,0 +1,15 @@
+{
+    "name": "bramus/silex-stub",
+    "type": "library",
+	"autoload": {
+		"psr-0": {
+			"Silex": "src/"
+		}
+	},
+    "authors": [
+        {
+            "name": "Bramus",
+            "email": "bramus@bram.us"
+        }
+    ]
+}
